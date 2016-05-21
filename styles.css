@@ -1,0 +1,40 @@
+#caja{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 2em;
+    background: #0097A7;
+    color: #212121;
+}
+
+
+
+#imagen{
+position:absolute;
+top: 45%;
+left:25%;
+margin-top: -150px; 
+margin-let: -150px;
+}
+
+#boton{
+        font-size:2em;
+        font-family:Verdana,Helvetica;
+        color:#212121;
+        background:#00BCD4;
+        border:0px;
+        width:100%;
+       }
+
+#siguiente{
+        font-size:2em;
+        font-family:Verdana,Helvetica;
+        color:#212121;
+        background:#00BCD4;
+        border:0px;
+        width:100%;
+
+       }
+html{
+    background: #B2EBF2;
+}
