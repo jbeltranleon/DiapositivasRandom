@@ -14,7 +14,7 @@ position:absolute;
 top: 45%;
 left:25%;
 margin-top: -150px; 
-margin-let: -150px;
+margin-left: -150px;
 }
 
 #boton{
@@ -37,4 +37,11 @@ margin-let: -150px;
        }
 html{
     background: #B2EBF2;
+}
+
+iframe{
+position:absolute;
+top: 100%;
+left:25%;
+margin: 150px auto;
 }

@@ -21,6 +21,7 @@ function inicio(){
         
     }
     boton.addEventListener("click", nombrar);
+    
     function pasarDiapositiva(){
         function Azar(minimo, maximo){
 	       var numero = Math.floor( Math.random() * (maximo - minimo + 1) + minimo );
